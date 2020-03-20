@@ -1,4 +1,4 @@
-> Membros: João Gustavo Soares Bispo e Mateus
+> Membros: João Gustavo Soares Bispo, Mateus, Pedro e Thiago
 # Aircnc
 
 #### Aircnc é um serviço online comunitário para as pessoas anunciarem e reservarem acomodações, e meios de hospedagem. Nele existe dois tipos de individuos, um deles podera anunciar a acomodação na qual queira alugar e outro podera alugar essas acomodações, na qual pode ser dividida em 3 categorias: apartamento, casa ou quarto, a individuo que irá alugar a acomodação, podera ver as datas e disponivel.
